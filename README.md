@@ -7,7 +7,7 @@ Victory Gtk Theme, A flat minimalistic and bright gtk theme.
 
 ##Preview
 
-![VictoryGtk](https://i.imgur.com/3nnFAem.png "VictoryGtk")
+![VictoryGtk](https://i.imgur.com/XoQvUH9.png "VictoryGtk")
 
 Victory Gtk Theme, XFCE with Thunar, [Victory Icon Theme](https://github.com/newhoa/victory-icon-theme), [Flow wallpaper by tri5tian](https://www.gnome-look.org/content/show.php/Flow?content=71058)
 
