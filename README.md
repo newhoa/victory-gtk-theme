@@ -25,7 +25,7 @@ Above: VictoryGtk Dark with Papirus Icons
 
 ![VictoryGtk Dark with Breeze Icons](https://i.imgur.com/TUcBLWO.png "VictoryGtk Medium with Breeze Icons")
 
-Above: VictoryGtk Medium with Breeze Icons
+Above: VictoryGtk Dark with Breeze Icons
 
 <a name="about"></a>
 
