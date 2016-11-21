@@ -21,7 +21,7 @@ This was made, tested, and known to work well on Xubuntu and Lubuntu 16.04. The 
 
 * A Gtk2 theme that works great for XFCE and LXDE (should work on MATE as well)
 * A somewhat functioning Gtk3 theme for Gtk 3.18 only
-* An XFWM4 window border theme
+* An XFWM4 window border theme (also a test HiDPI variant)
 * An Openbox window border theme
 
 It will work best on XFCE or LXDE. It will not work with Gtk 3.20+ Apps or Desktops for now.
