@@ -9,7 +9,23 @@ Victory Gtk Theme, A flat minimalistic and bright gtk theme.
 
 ![VictoryGtk](https://i.imgur.com/XoQvUH9.png "VictoryGtk")
 
-Victory Gtk Theme, XFCE with Thunar, [Victory Icon Theme](https://github.com/newhoa/victory-icon-theme), [Flow wallpaper by tri5tian](https://www.gnome-look.org/content/show.php/Flow?content=71058)
+^ Victory Gtk Theme, XFCE with Thunar, [Victory Icon Theme](https://github.com/newhoa/victory-icon-theme), [Flow wallpaper by tri5tian](https://www.gnome-look.org/content/show.php/Flow?content=71058) ^
+
+![VictoryGtk Medium with Boston Icons](https://i.imgur.com/14FfVBP.png "VictoryGtk Medium with Boston Icons")
+
+^ VictoryGtk Medium with Boston Icons ^
+
+![VictoryGtk Medium Dark with Arc Icons](https://i.imgur.com/nrgzrZu.png "VictoryGtk Medium Dark with Arc Icons")
+
+^ VictoryGtk Medium Dark with Arc Icons ^
+
+![VictoryGtk Dark with Papirus Icons](https://i.imgur.com/OBVATAu.png "VictoryGtk Dark with Papirus Icons")
+
+^ VictoryGtk Dark with Papirus Icons ^
+
+![VictoryGtk Dark with Breeze Icons](https://i.imgur.com/TUcBLWO.png "VictoryGtk Medium with Breeze Icons")
+
+^ VictoryGtk Medium with Breeze Icons ^
 
 <a name="about"></a>
 
@@ -30,6 +46,7 @@ It will work best on XFCE or LXDE. It will not work with Gtk 3.20+ Apps or Deskt
 Border variants (Medium, Medium Dark, and Dark) are made for Gtk2 and Openbox only as of the 16.04 release. Each variant theme includes:
 
 * A slightly modified Gtk2 theme from the original to match the window theme
+* Gtk3.18 theme from the original so buttons and stuff work, but prob will not match the variant Gtk2 theme
 * Openbox window themes
 
 <a name="install"></a>
@@ -38,7 +55,7 @@ Border variants (Medium, Medium Dark, and Dark) are made for Gtk2 and Openbox on
 
 To install the theme you can [download the theme as an archive](https://github.com/newhoa/victory-gtk-theme/archive/master.zip) and extract the folder of the version you want to your `/home/yourusername/.themes/` folder.
 
-Or you can clone it in the terminal using either of these commands (NOTE: this will download all variants and also any documentation in the repository):
+Or you can clone it in the terminal using either of these commands (NOTE: this will download all variants and also any documentation in the repository to your themes folder):
 
 ```bash
 $ git clone https://github.com/newhoa/victory-gtk-theme.git ~/.themes/
@@ -51,6 +68,8 @@ Once the theme is placed in the .themes folder, open the appearance manager for 
 - Gnome 3: `gnome-tweak-tool`
 - Mate: `mate-appearance-properties`
 - XFCE: `xfwm4-settings`
+
+To uninstall, simply delete the 'Victory-16.04' folder.
 
 <a name="background"></a>
 
