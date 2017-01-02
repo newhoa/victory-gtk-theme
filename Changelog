@@ -1,3 +1,26 @@
+ [[ 2016-12-12 ]]
+
+
+  [ New ]
+
++ Added Victory 16.10 Theme with initial Gtk 3.20 support.
+
+
+
+  [ Changes ]
+
++ Moved the hidpi xfwm4 theme into its own directory (was in the main Victory theme folder, couldn't be used without renaming and moving folder to new dir).
+
+
+
+  [ Notes ]
+
+With the Gtk 3.20 theme I ditched the old Gtk 3.18 code. Gtk 3.20 is now based on the great Vertex theme sourced from Solus OS (https://github.com/horst3180/vertex-theme) (https://solus-project.com/). I'm considering this in Alpha. While it should blend very well with the Gtk 2 theme and is become its own theme, some elements from Vertex likely remain. The Solus OS specific code is still almost entirely Vertex. The Dark version of the theme is in pre-alpha testing (and is named as such so it can't be enabled by default without renaming it).
+
+
+-----------------------------------
+
+
  [[ 2016-12-11 ]]
 
 

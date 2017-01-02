@@ -1,7 +1,7 @@
 # Victory Gtk Theme
 Victory Gtk Theme, A flat minimalistic and bright gtk theme.
 
-[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background)
+[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute or Donate](#contdon) 
 
 <a name="preview"></a>
 
@@ -35,22 +35,24 @@ Above: Victory Gtk Theme Dark with Breeze Icons
 
 ## About
 
-Victory Gtk Theme is a flat, minimilaistic, and mostly bright Gtk2 Linux theme for XFCE and LXDE. Though I did try to complete a lot of Gtk3 elements for Gtk 3.18 (Ubuntu 16.04), and some Gtk3 apps may look fine (Nautilus, Transmission, Catfish, etc), it is unlikely to work well in a full Gtk3 desktop environment like Gnome 3. It will not work with Gtk 3.20 or higher Apps or Desktops for now.
+Victory Gtk Theme is a flat, minimilistic, and mostly bright Linux theme made primarily for Gtk 2-centric desktops (XFCE and LXDE) with some Gtk 3 support.
 
-This was made, tested, and known to work well on Xubuntu and Lubuntu 16.04. The main theme includes:
+This was made, tested, and known to work well on Xubuntu and Lubuntu 16.04 and 16.10. Gtk 3 support is being tested on the aforementioned DE's as well as on [Solus OS](https://solus-project.com/). The main theme includes:
 
 * A Gtk2 theme that works great for XFCE and LXDE (should work on MATE as well)
-* A somewhat functioning Gtk3 theme for Gtk 3.18 only
 * A Notifications Theme for XFCE
-* An XFWM4 window border theme (also a test HiDPI variant)
-* An Openbox window border theme
+* An XFWM4 window border theme for XFCE (also a test HiDPI variant)
+* An Openbox window border theme for LXDE and Openbox
+* A somewhat functioning Gtk 3 theme for Gtk 3.18 (in Victory 16.04 and 16.10)
+* A work-in-progress Gtk 3 theme for Gtk 3.20 and higher (in Victory 16.10)
 
 
-Border variants (Medium, Medium Dark, and Dark) are made for Gtk2, Openbox, and XFWM4 only as of the 16.04 release. Each variant theme includes:
+Border variants (Medium, Medium Dark, and Dark) effect only Gtk2, Openbox, and XFWM4 for now. Each variant theme includes:
 
-* A slightly modified Gtk2 theme taken from the original to match the window theme of the variant
-* Gtk3.18 theme from the original so buttons and stuff work, but prob will not match the variant Gtk2 theme
-* Variant Openbox window theme
+* A variant Openbox window theme for LXDE and Openbox
+* A variant XFWM4 window theme for XFCE
+* A slightly modified Gtk2 theme taken from the original to match the variant window border
+* A Gtk 3 theme copied from the main theme so buttons and stuff work and match, but Gtk 3 theme will not have the dark borders.
 
 <a name="install"></a>
 
@@ -72,15 +74,15 @@ Once the theme is placed in the .themes folder open the appearance manager for y
 
 Use these apps to change the Window Border:
 
-- Openbox: `obconf`
-- XFWM4 Window Border: `xfwm4-settings`
+- LXDE/Openbox: `obconf`
+- XFCE/XFWM4 Window Border: `xfwm4-settings`
 
 Use the XFCE Notifications Settings to change the Notify Popup theme
 
 - XFCE: `xfce4-notifyd-config`
 
 
-To uninstall, simply delete the 'Victory-16.04' folders.
+To uninstall, simply delete the 'Victory-16.04' or similar folders.
 
 <a name="background"></a>
 
@@ -93,3 +95,14 @@ I eventually came to a point where I thought the theme was complete. At the time
 I decided just for personal use to make changes here and there, eventually making it into a very simple and flat theme. I never published it because I thought it was very specific to my taste and to be honest I thought some of the current themes being worked on were quite incredible and worth more attention. Because I had slowly tweaked it and made it for my personal use, updating only the parts that I needed, the aspects aside from the ones that I used fell behind. Metacity, Gtk3, Cinnamon, Gnome Shell, and to a lesser extent MATE didn't keep up and didn't work with the current theme. It also mostly lost its tweakability as some of the colors became hard coded.
 
 Recently I published an icon theme that I had worked on. In the preview image I was using this theme and people asked for a place to download it so I thought I'd put it up. It's not as elaborate, beautiful, or as cohesive or as complete as many others like Arc, Numix, Vertex, etc, but hopefully people will enjoy it nevertheless!
+
+
+<a name="contdon"></a>
+
+## Contribute or Donate
+
+If anyone would like to contribute, please feel free to let me know where something doesn't look right, file a bug report if you have any problems, or even help out with the theme if you'd like. A dark theme is something I'm not very focused on, I have started it (in the gtk-3.20 folder) and if anyone would like to help work on that it would be appreciated. 
+
+In addition to contributing, I'll also offer my paypal email for anyone interested in donating. I don't expect anything from this but a few have asked so it couldn't hurt to add it. It is `newhoa.donate` (AT) `linuxmail.org` | I've worked for many years and hundreds of hours on this theme and the icon theme. I've enjoyed every second of it and it has been an incredible learning experience. I'll continue to do it because I enjoy it and it's my way to give something to the FOSS community that I love, admire, and am indebted to. I would greatly appreciate help in any form and thank anyone who feels inclined to do so. Thank you all for your support, whether it is simply a thank you, a compliment, some advice, constructive criticism, or a donation it is all very much appreciated.
+
+
