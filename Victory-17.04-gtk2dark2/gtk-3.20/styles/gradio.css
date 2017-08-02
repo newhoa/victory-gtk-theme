@@ -1,0 +1,120 @@
+
+
+
+window stack box stack box overlay box .sidebar
+{
+background-color: mix(@theme_base_color,#000000,0.2);
+box-shadow: none;
+background-image: none;
+background-color: #ffffff;
+}
+
+window stack box stack box overlay box .sidebar button
+{
+color: #575757;
+}
+
+window stack box stack box overlay box .action-box
+{
+background-color: #ffffff;
+color: #7C8CAC;
+}
+
+window.background
+{
+background-color: white;
+}
+
+.grid-item {
+}
+
+.stations-view
+{
+background-color: white;
+}
+
+.stations-view button
+{
+background-color: white;
+border-color: transparent;
+background-image: none;
+color: #575757;
+}
+
+
+/*
+
+window stack box stack box overlay box .sidebar
+{
+background-color: mix(@theme_base_color,#000000,0.2);
+box-shadow: none;
+background-image: none;
+background-color: #232836;
+color: white;
+}
+
+window stack box stack box overlay box .sidebar button
+{
+color: #e6e6e6;
+}
+
+window stack box stack box overlay box .action-box
+{
+background-color: #ffffff;
+color: #7C8CAC;
+}
+
+.grid-item {
+}
+
+.stations-view button
+{
+border-color: transparent;
+background-image: none;
+color: #575757;
+}
+
+*/
+
+
+/*
+
+window stack box stack box overlay box .sidebar
+{
+background-color: mix(@theme_base_color,#000000,0.2);
+box-shadow: none;
+background-image: none;
+background-color: #232836;
+color: white;
+}
+
+window stack box stack box overlay box .sidebar button
+{
+color: #e6e6e6;
+}
+
+window stack box stack box overlay box .action-box
+{
+background-color: #ffffff;
+color: #7C8CAC;
+}
+
+.grid-item {
+box-shadow: none;
+}
+
+.stations-view
+{
+background-color: #232836;
+color: #e6e6e6;
+}
+
+.stations-view button
+{
+border-color: transparent;
+background-image: none;
+background-color: #232836;
+color: #e6e6e6;
+}
+
+*/

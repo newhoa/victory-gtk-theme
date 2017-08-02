@@ -1,0 +1,31 @@
+.xfce4-panel.panel
+{
+padding: 0;
+background-color: #272828;
+}
+
+.xfce4-panel.panel .button.flat
+{
+padding: 0;
+color: #ffffff;
+border: none;
+background-color: rgba(43, 46, 55, 0);
+border-radius: 0;
+}
+
+.xfce4-panel.panel .button.flat:hover
+{
+padding: 0;
+color: #373737;
+border: none;
+background-color: #D9D9D9;
+}
+
+.xfce4-panel.panel .button.flat:active,
+.xfce4-panel.panel .button.flat:checked
+{
+padding: 0;
+color: #373737;
+border: none;
+background-color: #FAFAFA;
+}

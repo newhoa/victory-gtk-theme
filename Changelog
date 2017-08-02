@@ -51,3 +51,24 @@ With the Gtk 3.20 theme I ditched the old Gtk 3.18 code. Gtk 3.20 is now based o
   [ Notes ]
 
 While all 16.10 versions of this theme support Gtk-3.20 now, the color variationed themes only use dark borders for Gtk2. Gtk3 uses, for the most part, its own borders where buttons are built in. So to theme a dark top border is a lot more difficult and not complete for now.
+
+
+-----------------------------------
+
+
+ [[ 2017-08-03 ]]
+ 
+
+  [ New ]
+
++ Updated themes for 17.04
++ Recreated scrollbars
+
+  [ Changes ]
+
++ Moved all 16.10 themes to the PreviousVersions directory
++ Fixed missing scrollbars in Firefox
+
+  [ Notes ]
+
+I had a better updated version of this theme but my Hard Drive was damaged and I lost it. This is the latest work-in-progress I could find and update so there are bound to be some bugs.
