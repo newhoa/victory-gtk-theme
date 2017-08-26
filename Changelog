@@ -82,4 +82,5 @@ I had a better updated version of this theme but my Hard Drive was damaged and I
 
   [ Changes ]
 
++ Changed variant theme names
 + Gtk3 Menubars now match the Gtk2 Menubars on the variant themes. Please note this will only look good with matching Openbox and XFWM4 window borders. For Gnome or purely Gtk3 environments, stick with the main Victory-17.04 theme.
