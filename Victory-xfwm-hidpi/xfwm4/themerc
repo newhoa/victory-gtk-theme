@@ -8,7 +8,7 @@ title_shadow_active=false
 #title_alignment=center
 #button_layout=O|HMC
 active_text_color=#787878
-inactive_text_color=#bababa
+inactive_text_color=#BDBDBD
 
 show_app_icon=false
 
