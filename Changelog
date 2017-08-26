@@ -72,3 +72,14 @@ While all 16.10 versions of this theme support Gtk-3.20 now, the color variation
   [ Notes ]
 
 I had a better updated version of this theme but my Hard Drive was damaged and I lost it. This is the latest work-in-progress I could find and update so there are bound to be some bugs.
+
+
+-----------------------------------
+
+
+ [[ 2017-08-26 ]]
+ 
+
+  [ Changes ]
+
++ Gtk3 Menubars now match the Gtk2 Menubars on the variant themes. Please note this will only look good with matching Openbox and XFWM4 window borders. For Gnome or purely Gtk3 environments, stick with the main Victory-17.04 theme.
