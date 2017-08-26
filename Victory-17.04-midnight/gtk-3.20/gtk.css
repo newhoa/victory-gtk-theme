@@ -70,4 +70,6 @@
 @import url("gtk-widgets.css");
 @import url("styles/mate.css");
 @import url("styles/scrollbars-rounded-light.css");
-/* @import url("medium-titlebar.css"); */
+@import url("midnight-titlebar.css");
+@import url("midnight-light-menus.css");
+/* @import url("midnight-menus.css"); */

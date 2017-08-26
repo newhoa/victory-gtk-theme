@@ -198,9 +198,9 @@ style "menu"
 	GtkMenu::vertical-padding			= 1
 	GtkMenu::horizontal-padding			= 1
 	
-	bg[NORMAL]					= "#25292E" 	#Menus - Background
-	bg[INSENSITIVE]					= "#25292E"		#Menu Scrollbutton - Background Disabled
-	fg[INSENSITIVE]					= "#25292E"		#Menu Scrollbutton(gedit statbar) Arrow Disabled
+	bg[NORMAL]					= mix (0.6, @bg_color, shade (1.60, @bg_color)) 	#Menus - Background
+	bg[INSENSITIVE]					= mix (0.6, @bg_color, shade (1.60, @bg_color))		#Menu Scrollbutton - Background Disabled
+	fg[INSENSITIVE]					= mix (0.6, @bg_color, shade (1.60, @bg_color))		#Menu Scrollbutton(gedit statbar) Arrow Disabled
 
 #	fg[NORMAL]					= @bg_color						#Menus - Font Color
 	text[NORMAL]					= @fg_color						#Combobox Popup - Font Color
@@ -286,7 +286,7 @@ style "separator-menu-item"
 	GtkSeparatorMenuItem::separator-width		= 0
 	GtkSeparatorMenuItem::separator-height		= 6							#Was 0, 1 needed for Firefox
 
-	bg[NORMAL]					= "#1D2024"
+	bg[NORMAL]					= mix (0.65, @bg_color, shade (1.60, @bg_color))
 
         engine "murrine"
 	{

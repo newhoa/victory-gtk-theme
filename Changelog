@@ -29,7 +29,7 @@
   [ Changes ]
 
 + Moved the hidpi xfwm4 theme into its own directory (was in the main Victory theme folder, couldn't be used without renaming and moving folder to new dir).
-
++ Changed panel colors
 
 
   [ Notes ]

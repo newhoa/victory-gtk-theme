@@ -1,0 +1,12 @@
+menu menuitem:hover,
+  .menu menuitem:hover,
+  .menu menuitem:prelight,
+  .menu menuitem:active,
+  .menu menuitem:focus {
+  color: #FAFAFA;
+  border-color: #141719 ;
+    background-color: #31343D;}
+
+    menu menuitem:disabled,
+    .menu menuitem:disabled {
+      color: #C5C5C5; }

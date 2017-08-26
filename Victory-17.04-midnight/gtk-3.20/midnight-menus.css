@@ -1,0 +1,44 @@
+menu,
+.menu {
+  margin: 4px;
+  padding: 3px 0;
+  background-color: #25292e;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #1D2024; }
+
+  menu separator,
+  .csd menu separator,
+  .menu separator,
+  .csd
+  .menu separator {
+    margin: 10px 30px;
+    padding: 0px 0px;
+    max-width: 10px;
+    min-width: 10px;
+    width: 10px;
+    background-color: #1D2024; }
+
+  menu menuitem,
+  .menu menuitem {
+  transition: all 30ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  color: #E6E6E6;
+    min-width: 40px;
+    min-height: 16px;
+    padding: 5px 7px;
+    border: solid transparent;
+    border-width: 1px 0 1px 0;
+    -gtk-icon-shadow: none; }
+
+menu menuitem:hover,
+  .menu menuitem:hover,
+  .menu menuitem:prelight,
+  .menu menuitem:active,
+  .menu menuitem:focus {
+  color: #E6E6E6;
+  border-color: #141719 ;
+    background-color: #151719;}
+
+    menu menuitem:disabled,
+    .menu menuitem:disabled {
+      color: #505050; }
