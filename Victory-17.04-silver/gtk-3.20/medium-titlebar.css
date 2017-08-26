@@ -2,7 +2,7 @@ menubar,
 .menubar {
   -GtkWidget-window-dragging: true;
   padding: 0px;
-  color: #E7E7E7;
+  color: #FFFFFF;
   background-color: #A3A9B1; }
 headerbar,
 .titlebar:not(headerbar) {
@@ -14,24 +14,28 @@ headerbar,
   border-radius: 0;
   border-color: #C7C7C7; /*b9b9b9*/
   background-color: transparent;
-  background-image: linear-gradient(to bottom, #A3A9B1, #A3A9B1);
+  background-image: linear-gradient(to bottom, #F7F7F7, #F7F7F7);
   box-shadow: none; }
+
 .titlebar {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px; }
-headerbar button,
-.titlebar button
-{
-background-image: none;
-color: #ffffff;
-background-color: #AEB4BD;
-border-width: 1px;
-border-style: solid;
-border-color: #787878;
-}
+
   .solid-csd decoration {
     border-radius: 0;
     margin: 1px 0px 0px 0px;
     background-color: #f7f7f7;
     border: solid 1px #8D8F91; /*87888A*/
     box-shadow: inset 0 1px #A3A9B1; }
+
+menubar > menuitem:hover,
+.menubar > menuitem:hover
+{
+background-image: none;
+color: #373737;
+background-color: #FFFFFF;
+border-bottom: 1px solid #FFFFFF;
+border-left: 1px solid #8B9096;
+border-right: 1px solid #8B9096;
+border-top: 1px solid #8B9096;
+}

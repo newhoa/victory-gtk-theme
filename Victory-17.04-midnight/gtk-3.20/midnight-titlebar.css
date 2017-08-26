@@ -15,17 +15,15 @@ headerbar,
   border-radius: 0;
   border-color: #C7C7C7; /*b9b9b9*/
   background-color: transparent;
-  background-image: linear-gradient(to bottom, #404346, #404346);
+  background-image: linear-gradient(to bottom, #F8F8F9, #F8F8F9);
   box-shadow: none; }
 
 .titlebar {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px; }
 
-headerbar button,
 menubar > menuitem:hover,
-.menubar > menuitem:hover,
-.titlebar button
+.menubar > menuitem:hover
 {
 background-image: none;
 color: #E6E6E6;
@@ -35,9 +33,3 @@ border-left: 1px solid #23272B;
 border-right: 1px solid #23272B;
 border-top: 1px solid #23272B;
 }
-  .solid-csd decoration {
-    border-radius: 0;
-    margin: 1px 0px 0px 0px;
-    background-color: #f7f7f7;
-    border: solid 1px #8D8F91; /*87888A*/
-    box-shadow: inset 0 1px #A3A9B1; }

@@ -14,15 +14,14 @@ headerbar,
   border-radius: 0;
   border-color: #C7C7C7; /*b9b9b9*/
   background-color: transparent;
-  background-image: linear-gradient(to bottom, #404346, #404346);
+  background-image: linear-gradient(to bottom, #F7F7F7, #F7F7F7);
   box-shadow: none; }
 .titlebar {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px; }
-headerbar button,
+
 menubar > menuitem:hover,
-.menubar > menuitem:hover,
-.titlebar button
+.menubar > menuitem:hover
 {
 background-image: none;
 color: #373737;
