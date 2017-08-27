@@ -927,9 +927,8 @@ style "statusslider" = "slider"
 
 style "panel"
 {
-	GtkButton::inner-border				= { 4, 1, 2, 0 }
+	GtkButton::inner-border				= { 3, 2, 3, 2 }
 	WnckTasklist	:: fade-opacity			= 0.2
-	font_name					= "10"
 	ythickness					= 0
 	xthickness					= 0
 	GtkArrow	:: arrow-scaling		= 0.0
@@ -939,16 +938,16 @@ style "panel"
 	GtkArrow::arrow-scaling				= 10.0
 
 
-	bg[NORMAL]					= shade (1.0, "#272828")			#171717 38393A
+	bg[NORMAL]					= shade (1.0, "#232836")			#171717 38393A
 	fg[NORMAL]					= shade (1.0, "#F5F5F5")			#D4D4D4
 
 
-	bg[ACTIVE]					= shade (1.0, "#E8E8E8")			#act65686A #pre797D80 4B4E51
-	fg[ACTIVE]					= shade (1.0, "#38393A")
+	bg[ACTIVE]					= shade (1.0, "#444D63")			#act65686A #pre797D80 4B4E51
+	fg[ACTIVE]					= shade (1.0, "#FFFFFF")
 
-	fg[PRELIGHT]					= shade (1.0, "#373737")
+	fg[PRELIGHT]					= shade (1.0, "#FFFFFF")
 
-	bg[PRELIGHT]					= shade (1.0, "#C9CDD1")
+	bg[PRELIGHT]					= shade (1.0, "#505B75")
 
        engine "pixmap"
 	{
@@ -969,7 +968,6 @@ style "panel-indicator" = "panel"
 style "panel-windowlist" = "panel"
 {
 	GtkButton::inner-border				= { 1, 1, 2, 0 }
-	font_name					= "10"
 	ythickness					= 0
 	xthickness					= 0
 	GtkArrow	:: arrow-scaling		= 0.0
