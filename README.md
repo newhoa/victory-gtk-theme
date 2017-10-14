@@ -101,7 +101,9 @@ Recently I published an icon theme that I had worked on. In the preview image I 
 
 ## Contribute or Donate
 
-If anyone would like to contribute, please feel free to let me know where something doesn't look right, file a bug report if you have any problems, or even help out with the theme if you'd like. A dark theme is something I'm not very focused on, I have started it (in the gtk-3.20 folder) and if anyone would like to help work on that it would be appreciated. 
+If anyone would like to contribute, please feel free to let me know where something doesn't look right, file a bug report if you have any problems, or even help out with the theme if you'd like.
+
+I have created a [Patreon page here](https://www.patreon.com/newhoa) for anyone interested in showing support via Patreon. I will try to post updates, previews, etc there.
 
 In addition to contributing, I'll also offer my paypal email for anyone interested in donating. I don't expect anything from this but a few have asked so it couldn't hurt to add it. It is `newhoa.donate` (AT) `linuxmail.org` | I've worked for many years and hundreds of hours on this theme and the icon theme. I've enjoyed every second of it and it has been an incredible learning experience. I'll continue to do it because I enjoy it and it's my way to give something to the FOSS community that I love, admire, and am indebted to. I would greatly appreciate help in any form and thank anyone who feels inclined to do so. Thank you all for your support, whether it is simply a thank you, a compliment, some advice, constructive criticism, or a donation it is all very much appreciated.
 
