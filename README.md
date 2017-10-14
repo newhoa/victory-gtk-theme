@@ -1,5 +1,5 @@
 # Victory Gtk Theme
-Victory Gtk Theme, A flat minimalistic and bright gtk theme.
+Victory Gtk Theme: A flat, minimalistic, and bright gtk theme.
 
 [Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute, Donate, Patreon](#cont) 
 
