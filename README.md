@@ -1,7 +1,7 @@
 # Victory Gtk Theme
 Victory Gtk Theme, A flat minimalistic and bright gtk theme.
 
-[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute or Donate](#contdon) 
+[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute, Donate, Patreon](#cont) 
 
 <a name="preview"></a>
 
@@ -97,9 +97,9 @@ I decided just for personal use to make changes here and there, eventually makin
 Recently I published an icon theme that I had worked on. In the preview image I was using this theme and people asked for a place to download it so I thought I'd put it up. It's not as elaborate, beautiful, or as cohesive or as complete as many others like Arc, Numix, Vertex, etc, but hopefully people will enjoy it nevertheless!
 
 
-<a name="contdon"></a>
+<a name="cont"></a>
 
-## Contribute or Donate
+## Contribute, Donate, Patreon
 
 If anyone would like to contribute, please feel free to let me know where something doesn't look right, file a bug report if you have any problems, or even help out with the theme if you'd like.
 
