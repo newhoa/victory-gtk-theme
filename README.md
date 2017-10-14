@@ -5,7 +5,7 @@ Victory Gtk Theme, A flat minimalistic and bright gtk theme.
 
 <a name="preview"></a>
 
-##Preview
+## Preview
 
 ![VictoryGtk](https://i.imgur.com/y36CqfX.png "VictoryGtk")
 
