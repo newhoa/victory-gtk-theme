@@ -66,6 +66,8 @@ Or you can clone it in the terminal using either of these commands (NOTE: this w
 $ git clone https://github.com/newhoa/victory-gtk-theme.git ~/.themes/
 ```
 
+### Prepackaged:
+* [Archlinux AUR](https://aur.archlinux.org/packages/victory-gtk-theme/)
 
 Once the theme is placed in the .themes folder open the appearance manager for your Desktop Environment to select the theme:
 
