@@ -68,27 +68,28 @@ $ git clone https://github.com/newhoa/victory-gtk-theme.git ~/.themes/
 
 ### Prepackaged:
 * [Archlinux AUR](https://aur.archlinux.org/packages/victory-gtk-theme/)
+* Fedora
+* Ubuntu
+* PonyOS
+
+## Customization
 
 Once the theme is placed in the .themes folder open the appearance manager for your Desktop Environment to select the theme:
-
 - LXDE/LXQT: `lxappearance`
 - XFCE: `xfce4-appearance-settings`
 
 Use these apps to change the Window Border:
-
 - LXDE/Openbox: `obconf`
 - XFCE/XFWM4 Window Border: `xfwm4-settings`
 
 Use the XFCE Notifications Settings to change the Notify Popup theme
-
 - XFCE: `xfce4-notifyd-config`
 
 
 To uninstall, simply delete the 'Victory-16.04' or similar folders.
 
 <a name="background"></a>
-
-### Background
+## Background
 
 I started working on this around 2008, although at the time it was quite a different theme. It was colorful, compartmental, and made to be easily tweaked. There were GUI tools for Gnome 2, XFCE, and LXDE that allowed you to tweak a theme's colors such as tooltips and selection colors. I made a theme which linked the sidebar colors and menubar colors to those colors which could be changed, allowing people to easily change sidebar colors and menubar colors which allowed for many different window borders to be used with the theme. It also used a lot of color mixing in the code making it work for people who wanted a dark theme.
 
