@@ -58,14 +58,25 @@ Border variants (Medium, Medium Dark, and Dark) effect only Gtk2, Openbox, and X
 
 ## Installation
 
-To install the theme you can [download the theme as an archive](https://github.com/newhoa/victory-gtk-theme/archive/master.zip) and extract the folder of the version you want to your `/home/yourusername/.themes/` folder.
+**-Method 1-**
 
-Or you can clone it in the terminal using either of these commands (NOTE: this will download all variants and also any documentation in the repository to your themes folder):
+[Download the theme as an archive](https://github.com/newhoa/victory-gtk-theme/archive/master.zip) and extract the folder you want to your `/home/yourusername/.themes/` folder.
+
+**-Method 2-**
+
+Using the terminal, clone it to your themes folder using either of these commands (NOTE: this will download all variants and also any documentation in the repository to your themes folder):
 
 ```bash
 $ git clone https://github.com/newhoa/victory-gtk-theme.git ~/.themes/
 ```
 
+**-Method 3-**
+
+As distro-specific packaged become available I will add them here:
+
+* [Archlinux AUR](https://aur.archlinux.org/packages/victory-gtk-theme/)
+
+**-Configure and set the theme-**
 
 Once the theme is placed in the .themes folder open the appearance manager for your Desktop Environment to select the theme:
 
