@@ -1,7 +1,7 @@
 # Victory Gtk Theme
 Victory Gtk Theme: A flat, minimalistic, and bright gtk theme.
 
-[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute, Donate, Paypal & Patreon](#cont) 
+[Preview](#preview) | [About](#about) | [Installation](#install) | [Background](#background) | [Contribute, Donate, Paypal, Liberapay & Patreon](#cont) 
 
 <a name="preview"></a>
 
@@ -115,6 +115,8 @@ Recently I published an icon theme that I had worked on. In the preview image I 
 If anyone would like to contribute, please feel free to let me know where something doesn't look right, file a bug report if you have any problems, or even help out with the theme if you'd like.
 
 I have created a [Patreon page here](https://www.patreon.com/newhoa) for anyone interested in showing support via Patreon. I will try to post updates, previews, etc there.
+
+For those not interested in using Patreon, I've also started a [Liberapay page here](https://liberapay.com/newhoa/).
 
 If you prefer to donate via Paypal, my paypal is `newhoa.donate` (AT) `linuxmail.org` or simply [donate via paypal here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=newhoa%2edonate%40linuxmail%2eorg&lc=US&item_name=newhoa&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
 
