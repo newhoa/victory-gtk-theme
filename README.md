@@ -6,6 +6,8 @@ I am in the process of moving this project, as well as my other Github projects,
 
 2019-09-30
 
+-------------------------
+
 # Victory Gtk Theme
 Victory Gtk Theme: A flat, minimalistic, and bright gtk theme.
 
