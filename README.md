@@ -1,3 +1,11 @@
+# Moving To Gitlab
+
+[Victory Gtk Theme on Gitlab](https://gitlab.com/newhoa/victory-gtk-theme)
+
+I am in the process of moving this project, as well as my other Github projects, to Gitlab. I will leave the files here for a month or two. After that I may leave the Readme with this redirect notice or delete my account. Thank you all for your stars, watches, suggestions, kind comments and everything else. I really do appreciate it. I hope if you're reading this and have a Gitlab account you will find me there. I may also eventually mirror it on Bitbucket.
+
+2019-09-30
+
 # Victory Gtk Theme
 Victory Gtk Theme: A flat, minimalistic, and bright gtk theme.
 
